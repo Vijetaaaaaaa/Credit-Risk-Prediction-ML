@@ -27,3 +27,6 @@ This project predicts the likelihood of credit card default using machine learni
 
 ## Purpose
 Designed as a fintech/risk analytics project to demonstrate machine learning applications in financial risk prediction.
+| App Inputs | High Risk Prediction |
+| :---: | :---: |
+| ![Inputs](https://1drv.ms/i/c/fd6b455af4eef6b2/IQAR39RJxQBoR5-nTr2FjVVPAeLfbB2XLkVbefI3tDBPM48?e=zuxkme) | ![Results]([results_screenshot.png](https://1drv.ms/i/c/fd6b455af4eef6b2/IQDl-ljNSkq_TKdHjmGStaoTAcmoV2ItX-j4OYkuh2anYbE?e=0d1etz)) |
