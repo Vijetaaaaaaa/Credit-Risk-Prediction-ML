@@ -1,5 +1,5 @@
 # Credit-Risk-Prediction-ML
-Live Demo : https://credit-risk-prediction-ml-gwltz7lwr4zr9xhynpadpw.streamlit.app/
+**🔗 Live Demo:** [https://credit-risk-prediction-ml-gwltz7lwr4zr9xhynpadpw.streamlit.app/]
 
 Machine learning project for predicting credit default risk using Logistic Regression, Random Forest, and Streamlit
 
